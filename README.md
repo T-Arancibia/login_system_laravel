@@ -50,6 +50,6 @@ Antes de comenzar, es necesario tener instalados los siguientes componentes en s
    ```bash
    php artisan serve
 ```
-Finalmente, dirigirse a http://127.0.0.1:8000 y probar las funcionalidad implementadas.
+Finalmente, dirigirse a http://127.0.0.1:8000 y probar las funcionalidades implementadas.
    
 
